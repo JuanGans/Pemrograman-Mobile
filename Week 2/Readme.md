@@ -9,7 +9,7 @@
 ### Soal 1
 
 Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (output) sesuai yang diminta!
-![image](./image/Soal1.png)
+<img src="Image/Soal1.png">
 
 ### Soal 2
 Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter ? Jelaskan!
